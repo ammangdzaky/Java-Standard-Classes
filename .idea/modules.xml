@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01 - string class/01 - string class.iml" filepath="$PROJECT_DIR$/01 - string class/01 - string class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02 - StringBuffer and StringBuilder class/02 - StringBuffer and StringBuilder class.iml" filepath="$PROJECT_DIR$/02 - StringBuffer and StringBuilder class/02 - StringBuffer and StringBuilder class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA-STANDARD-CLASSES.iml" filepath="$PROJECT_DIR$/JAVA-STANDARD-CLASSES.iml" />
+    </modules>
+  </component>
+</project>
