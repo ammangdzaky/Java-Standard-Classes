@@ -31,12 +31,48 @@ public class Main {
 
         // KODE : menggunakan string builder
 
+        // append
         StringBuilder name = new StringBuilder();
         name.append("Mikasa");
         name.append(" ");
         name.append("Ackerman");
         String waifu = name.toString();  // di memory hanya ada satu data
 
+        StringBuilder nama = new StringBuilder("dzaky");
+
+        // insert(int offset, String str)
+        nama.insert(0, "Abdurrahman ");
+        System.out.println(nama);
+        System.out.println();
+
+        // delete(int start, int end)
+        nama.delete(12, nama.length());
+        System.out.println(nama);
+        System.out.println();
+
+        // replace(int start, int end, String str)
+        nama.replace(0, nama.length(), "Asep");
+        System.out.println(nama);
+        System.out.println();
+
+        // reverse()
+        nama.reverse();
+        System.out.println(nama);
+        System.out.println();
+
+        // charAt(int index)
+        System.out.println(nama);
+        System.out.println(nama.charAt(3));
+        System.out.println();
+
+        // substring(int start, int end)  -> param int end bisa kosong, jadi mengambil sampai akhir strng
+        System.out.println(nama.substring(0));
+        System.out.println(nama.substring(0,2));
+        System.out.println();
+
+        // setCharAt(int index, char ch)
+        nama.setCharAt(0,'A');
+        System.out.println(nama);
 
 
     }
