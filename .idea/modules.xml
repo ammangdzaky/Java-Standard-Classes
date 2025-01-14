@@ -7,6 +7,9 @@
       <module fileurl="file://$PROJECT_DIR$/03 - StringJoiner class/03 - StringJoiner class.iml" filepath="$PROJECT_DIR$/03 - StringJoiner class/03 - StringJoiner class.iml" />
       <module fileurl="file://$PROJECT_DIR$/04 - StringTokenizer class/04 - StringTokenizer class.iml" filepath="$PROJECT_DIR$/04 - StringTokenizer class/04 - StringTokenizer class.iml" />
       <module fileurl="file://$PROJECT_DIR$/05 - number class/05 - number class.iml" filepath="$PROJECT_DIR$/05 - number class/05 - number class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 - match class/06 - match class.iml" filepath="$PROJECT_DIR$/06 - match class/06 - match class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 - big number class/07 - big number class.iml" filepath="$PROJECT_DIR$/07 - big number class/07 - big number class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08 - scanner class/08 - scanner class.iml" filepath="$PROJECT_DIR$/08 - scanner class/08 - scanner class.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA-STANDARD-CLASSES.iml" filepath="$PROJECT_DIR$/JAVA-STANDARD-CLASSES.iml" />
     </modules>
   </component>
