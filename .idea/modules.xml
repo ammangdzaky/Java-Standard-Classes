@@ -14,6 +14,9 @@
       <module fileurl="file://$PROJECT_DIR$/10 - system class/10 - system class.iml" filepath="$PROJECT_DIR$/10 - system class/10 - system class.iml" />
       <module fileurl="file://$PROJECT_DIR$/11 - runtime class/11 - runtime class.iml" filepath="$PROJECT_DIR$/11 - runtime class/11 - runtime class.iml" />
       <module fileurl="file://$PROJECT_DIR$/12 - UUID class/12 - UUID class.iml" filepath="$PROJECT_DIR$/12 - UUID class/12 - UUID class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13 - Base64 class/13 - Base64 class.iml" filepath="$PROJECT_DIR$/13 - Base64 class/13 - Base64 class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14 - objects class/14 - objects class.iml" filepath="$PROJECT_DIR$/14 - objects class/14 - objects class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15 - random class/15 - random class.iml" filepath="$PROJECT_DIR$/15 - random class/15 - random class.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA-STANDARD-CLASSES.iml" filepath="$PROJECT_DIR$/JAVA-STANDARD-CLASSES.iml" />
     </modules>
   </component>
